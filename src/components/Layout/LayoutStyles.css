@@ -1,0 +1,38 @@
+/* Header and Navigation Styles */
+
+.header {
+  background: #e70c22;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  padding: 1rem 0.5rem;
+}
+.header a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navbar {
+  display: flex;
+}
+
+.navbar li {
+  list-style-type: none;
+  padding: 0 1rem;
+}
+
+/* Footer Style */
+
+.footer {
+  background: #f1f5f6;
+  text-align: center;
+  padding: 1rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer h2 {
+  color: rgb(161, 150, 150);
+}

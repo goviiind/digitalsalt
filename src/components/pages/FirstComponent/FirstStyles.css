@@ -1,0 +1,18 @@
+.toast-btn-div {
+  text-align: center;
+  padding-top: 10rem;
+}
+
+.toast-btn-div button {
+  background: #7c69ef;
+  outline: none;
+  border: none;
+  color: #fff;
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.toast-btn-div button:hover {
+  opacity: 0.7;
+}
